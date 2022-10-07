@@ -1,2 +1,3 @@
 # Machine_learning_project
-1.Cedit_Card_Approval
+1.Cedit_Card_Approval  ->It is a machine learning project based on classification problem .Basically it is a prediction model in which we have to predict wheather it is safe to approve a particular person credit card or not by analying the input data such as occupation,is he married or not ,is he posses car or not ,how many member in his family and his monthly income etc....
+I have create it in a good manner ,i have explained everything in code and comment out what i have done in next line which gives you a better understanding.
